@@ -1,0 +1,29 @@
+{
+  "name": "gulp-template-cache2",
+  "version": "1.0.1",
+  "description": "Gulp plugin that converts HTML files into JavaScript strings that can then be accessed through a global variable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpalchikovskiy/gulp-template-cache2.git"
+  },
+  "keywords": [
+    "gulp",
+    "plugin",
+    "template",
+    "cache"
+  ],
+  "author": "Alex Palchikovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpalchikovskiy/gulp-template-cache2/issues"
+  },
+  "homepage": "https://github.com/alexpalchikovskiy/gulp-template-cache2#readme",
+  "dependencies": {
+    "through2": "^3.0.1",
+    "vinyl": "^2.2.0"
+  }
+}
